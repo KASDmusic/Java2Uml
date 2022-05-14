@@ -1,1 +1,2 @@
-javac -d build src/*.java
+rm -rf build
+javac -cp src -d build src/*.java
