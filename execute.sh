@@ -1,1 +1,1 @@
-java -cp build Main
+java -cp build Main /home/kenzo/Documents/Licence/L2/S4/Conception/l_system_col_sene/build/

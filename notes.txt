@@ -1,3 +1,13 @@
 - compile.bat : ajouter suppr recursive /build
 
-- parcours recursif de tout les .class à partir d'un repertoire
+- parcours recursif de tout les .class à partir d'un repertoire + ajout des class (marche que pour build)
+
+
+
+
+
+
+
+
+!!!!! Tester sur Windows
+!!!!! Tester sur Linux
